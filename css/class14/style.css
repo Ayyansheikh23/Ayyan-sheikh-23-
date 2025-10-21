@@ -1,0 +1,80 @@
+.abc{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.dancing-script-uniquifier {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: font1;
+    src: url(./IndieFlower-Regular.ttf);
+}
+
+.ghi{
+    font-family: font1;
+}
+
+.jkl{
+    font-size: x-large;
+}
+
+.mno{
+    font-size: 13px;
+}
+
+.pqr{
+    font-size: 42pt;
+}
+.stu{
+    font-weight: bolder;
+}
+.vw{
+    font-style: oblique;
+}
+.xyz{
+    text-transform: capitalize;
+}
+.ab1{
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+}
+.ab2{
+    text-decoration: overline;
+}
+.ab3{
+    text-decoration: line-through;
+}
+h1{
+    background-color: teal;
+    line-height: 50px;
+
+}
+.ab4{
+    letter-spacing: 15px;
+}
+.ab5{
+    word-spacing: 6px;
+}
+h1{
+    text-align: center;
+}
+.ab8{
+    vertical-align: text-top;
+}
+.ab7{
+    color: aliceblue;
+    background-image: url("./coding-wallpaper-1366x768.jpg");
+background-repeat: no-repeat;
+text-indent: 20px;}
+
+*{
+    background-color: coral;
+}
