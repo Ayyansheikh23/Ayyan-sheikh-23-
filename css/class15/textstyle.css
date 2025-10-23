@@ -1,0 +1,67 @@
+* {
+    background-color: bisque;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(40, 180, 200);
+    color: #195D63;
+    line-height: 250%;
+    
+}
+
+.abc::first-letter {
+ 
+    font-size: 200%;
+     
+
+    
+
+}
+
+.abc {
+    background-color: burlywood;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+.first {
+    background-color: burlywood;
+    border: 5px solid #851526;
+    padding: 15px;
+    margin-top: 20px;
+    font-weight: bolder;
+
+}
+.abc::first-line{
+    color: teal;
+}
+.efg::first-letter{
+
+    font-size: 300%;
+}
+
+@font-face{
+    font-family: xyz;
+    src: url(./LobsterTwo-Bold.ttf);
+}
+
+
+.efg{
+    color: #556319;
+    font-family: xyz ;
+}
+
+.hij::first-line{
+    font-size: 450%;
+}
+
+@font-face{
+    font-family: twx;
+    src: url(./Orbitron-VariableFont_wght.ttf);
+}
+.hij{
+    color:#635919 ;
+     font-family: twx;
+}
