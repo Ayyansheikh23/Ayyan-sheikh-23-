@@ -1,0 +1,31 @@
+.abc:hover{
+    background-color: chocolate;
+    
+}
+.abcd:focus{
+    background-color: cornflowerblue;
+}
+.abcde:active{
+    background-color: tan;
+}
+.tws{
+    width: 200px;
+    background-color: cadetblue;
+    height: 250px;
+    overflow:scroll;
+}
+
+.efg{
+    width: 250px;
+    background-color: darkcyan;
+    height: 200px;
+    overflow: hidden;
+     
+}
+*{
+    background-color: thistle;
+    text-align: center;
+}
+h1{
+ color: sienna;
+}
