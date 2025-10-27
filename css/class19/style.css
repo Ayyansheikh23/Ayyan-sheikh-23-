@@ -1,0 +1,32 @@
+.first {
+    width: 400px;
+    background-color: aquamarine;
+    height: 100px;
+
+}
+
+.abc {
+    border-width: thick;
+    border-style: solid;
+    border-bottom-color: brown;
+    border-top-color: chocolate;
+    /* margin-right: 10px; */
+
+    width: 30%;
+    background-color: burlywood;
+    padding: 10px;
+
+
+
+}
+
+.second {
+    width: 150px;
+}
+
+.efg {
+    border-width: thick;
+    border-style: solid;
+    border-bottom-color: brown;
+    border-top-color: chocolate;
+}
