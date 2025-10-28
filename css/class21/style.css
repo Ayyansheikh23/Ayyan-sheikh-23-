@@ -1,0 +1,31 @@
+.one {
+    border-style: dashed;
+}
+
+.two {
+    border-style: dotted;
+}
+
+.three {
+    border-style: solid;
+}
+
+.four {
+    border-style: double;
+}
+
+.five {
+    border-style: groove;
+}
+
+.six {
+    border-style: ridge;
+}
+
+.seven {
+    border-style: inset;
+}
+
+.eight {
+    border-style: outset;
+}
