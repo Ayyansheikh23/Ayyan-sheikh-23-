@@ -1,0 +1,51 @@
+.first{
+    width: 400px;
+    background-color: tomato;
+   
+    
+}
+
+.abc{
+    border-width: 5px;
+    border-style:solid ;
+    border-bottom-color: saddlebrown;
+    border-top-color:olive;
+    border-left-color: rosybrown;
+    border-right-color: mediumseagreen;
+    text-align: center;
+    background-color: teal;
+    width: 400px;
+
+
+  }
+
+  .second{
+    background-color: slategray;
+  color: papayawhip;
+
+  }
+
+.abcd{
+    border-width: 3px;
+    border-style: solid;
+    border-bottom-color: steelblue;
+    border-right-color:steelblue ;
+    border-top-color: seagreen;
+    border-left-color: seagreen;
+}
+.third{
+    background-color: slategray;
+    color: purple;
+}
+.klm{
+    border-width: 2px;
+    border-color: yellowgreen;
+    border-style: double;
+}
+body{
+    background-color: black;
+}
+
+
+
+
