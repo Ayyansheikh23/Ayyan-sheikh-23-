@@ -1,0 +1,30 @@
+body {
+  background: #222;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial;
+}
+
+.box {
+  background: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+img {
+  width: 100px;
+  margin: 15px 0;
+}
+
+.roll {
+  animation: roll 0.4s;
+}
+
+@keyframes roll {
+  0% { transform: rotate(0); }
+  50% { transform: rotate(25deg); }
+  100% { transform: rotate(0); }
+}
